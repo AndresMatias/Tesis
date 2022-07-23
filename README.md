@@ -20,12 +20,11 @@ En este repositorio se encuentra la V2.0(y versiones anteriores) del dashboard p
 <br />
 
 Links de Apis Software de Visualizació:
- <br />&emsp;Pyqt5: [Instalación Pyqt5](https://pypi.org/project/PyQt5/ "Instalación Pyqt5"), [Documentación de Pyqt5](https://doc.qt.io/qtforpython/ "Documentación de Pyqt5")
+<br />&emsp;Pyqt5: [Instalación Pyqt5](https://pypi.org/project/PyQt5/ "Instalación Pyqt5"), [Documentación de Pyqt5](https://doc.qt.io/qtforpython/ "Documentación de Pyqt5")
 <br />&emsp;Pandas:[Instalación Pandas](https://pypi.org/project/pandas/ "Instalación Pandas"), [Documentacion de Pandas](https://pandas.pydata.org/pandas-docs/stable/ "Documentacion de Pandas")
 <br />&emsp;Pyodbc: [Instalación de Pyodbc](https://pypi.org/project/pyodbc/ "Instalación de Pyodbc"), [Documentacion de Pyodbc](https://github.com/mkleehammer/pyodbc/wiki "Documentacion de Pyodbc")
 <br />&emsp;Matplotlib: [Instalación Matplotlib](https://pypi.org/project/matplotlib/ "Instalación matplotlib"), [Documentacion Matplolib](https://matplotlib.org/ "Documentacion Matplolib")
-
- <br /> <br />
+<br /><br />
 Link Api Node-Red para Raspberry Pi:
 <br />&emsp;Node-Red: [Instalación Node-Red](https://nodered.org/docs/getting-started/raspberrypi "Instalación Node-Red"), [Documentacion Node-Red](https://nodered.org/docs/ "Documentacion Node-Red")
 
