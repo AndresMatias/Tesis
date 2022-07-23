@@ -1,7 +1,8 @@
 # Documentacion
 
 ## 1. Introduccion
-En este repositorio se encuentra la V2.0(y versiones anteriores) del dashboard para alladio mas el codigo. El codigo de la interfaz grafica se encuentra en la carpeta Dashboard/Oficial/Phyton. Mayormente se utilizo Pyqt5 y Matplolib para el diseño grafico, pyodbc para la conexion a la bbdd y pandas para las consultas sql y el procesamiento de datos combinado con logica de bucles for
+En este repositorio se encuentra la programacion de las interfaces graficas para los usuarios, el controlador de para la rpi 3 y el controlador para la caja de scrap.
+Se utilizo arduino, node-red y python(qt,pandas,matplotlib y pyodbc principalmente) para el diseño de todos los programas
 
 ## 2. Bibliotecas y Herramientas Utilizadas
 <p>
