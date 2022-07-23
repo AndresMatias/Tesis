@@ -1,0 +1,10 @@
+Barra de estado diesmando datos con pandas
+Procesamiento datos en hilo aparte
+Incluir exepciones propias en argumentos de M_Consulta para detectar que son strings y no un int
+Patron Singleton con las Clases SQL
+incluir constantes en archivos xlm
+Procesamiento con nueva bbdd y scrip pandas
+Que no aparesca ventana principal hasta hacer la conexion sql
+Ventana carga arreglar(ver diferencia entre hilo y subproceso, uno comparte memoria y el otro no y hasta q termine no se muestran los resultados creo)
+
+

@@ -1,0 +1,7 @@
+#!/bin/bash
+
+set -euo pipefail
+
+cp -r binder/Desktop ${HOME}/Desktop
+
+chmod -R 555 ${HOME}/apps/

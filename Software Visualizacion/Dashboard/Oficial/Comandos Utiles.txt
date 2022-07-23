@@ -1,0 +1,5 @@
+pyrcc5 xz.qrc -o xz_rc.py para transformar los qrc a .py para cargar imagenes
+
+pyrcc5 resources.qrc -o resources.py trasforma py q qrc o viceversa(no em acuerdo)
+
+pyinstaller --windowed --onefile -n "Dashboard" --icon=./icono2.ico main.py   Crear instalar que no requiera archivos.py

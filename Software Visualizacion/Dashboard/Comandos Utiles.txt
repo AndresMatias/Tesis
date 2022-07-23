@@ -1,0 +1,7 @@
+trasformar archivo ui a py: pyuic5 -x interfaz.ui -o interfaz.py
+pyodbc libreria sql
+	fetchall(): Importante ver
+
+#self.addToolBar(NavigationToolbar(self.MplWidget.canvas, self)) #Agrega barra de herramientas de matplotlib
+
+pyrcc5 xz.qrc -o xz_rc.py para transformar los qrc a .py para cargar imagenes

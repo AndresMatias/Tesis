@@ -1,0 +1,4 @@
+Cuando genere el qrc, tengo q convertirl oa .py e improtarlo desde mi programa
+eso lo peudo ahcer con un comando que deje en un bloc de notas llamado Comandos utiles
+en la carpeta oficial o puedo hacerlo directamente con visual clicl derecho sobre el qrc
+y escojo la opcion que dice "Compile Resource File into Qt for Phyton file"

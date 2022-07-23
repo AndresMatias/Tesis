@@ -1,0 +1,5 @@
+QFrame{
+border-radius:150px;
+background-color: qconicalgradient(cx:0.5, cy:0.5, angle:0, stop:{stop1} rgba(85, 85, 255, 255), stop:{stop2} rgba(255, 255, 255, 255));
+background-color: qconicalgradient(cx:0.5, cy:0.5, angle:0, stop:{stop1} rgba(85, 85, 255, 255), stop:{stop2} rgba(255, 255, 255, 255), stop:{stop3} rgba(85, 85, 255, 255), stop:{stop4} rgba(255, 255, 255, 255));
+}

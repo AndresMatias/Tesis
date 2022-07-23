@@ -1,0 +1,23 @@
+SELECT * FROM INFORMATION_SCHEMA.COLUMNS WHERE TABLE_NAME = 'Tabla_Pruebas' iNFORMACION DE MI TABLA
+SELECT * FROM INFORMATION_SCHEMA.TABLES Nombre de Tablas de base de datos
+SELECT * FROM Inyectora.INFORMATION_SCHEMA.TABLES Nombre de als tablas de mi base de datos
+
+
+INSERT INTO Tabla_Pruebas2(Fecha) Values(CURRENT_TIMESTAMP) Tengo problemas con este comando
+INSERT INTO Tabla_Pruebas(Fecha,Estado) Values(DEFAULT,10) Asi funciona en principio pero sigue sin mostrar fecha
+
+datatime ir a colum en modificar 102
+
+Varible tabla: estado,turno,fecha(datetime),model abierto,model cerrado
+
+ 1ra) 12 hs para abajo de tiempo actual (current_time) algo asi como una resta de tiempos
+ 2da) puede ser de todo un año
+ 3ra) año con mes
+ 4ta) año mes dia
+ 5ta)año mes dia y turno
+
+	Nota:Tengo que definir el si el rango horario es absoluto(24 hs) o parcial(solo las hs de trabajo de los 3 turnos)
+
+SELECT ID,Fecha,Estado,Turno,Molde_Abierto,Molde_Cerrado from Tabla_Pruebas2
+Instrucciones a priori para buscar
+SELECT ID,Fecha,Estado,Turno,Molde_Abierto,Molde_Cerrado from Tabla_Pruebas2 where Fecha>CONVERT(DATETIME,'2021-05-14 12:00:00.000',102)

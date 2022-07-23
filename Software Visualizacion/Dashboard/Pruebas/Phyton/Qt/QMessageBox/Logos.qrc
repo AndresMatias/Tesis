@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="Logos Principales">
+    <file>Logo 1.jpg</file>
+    <file>Logo 2.jpg</file>
+  </qresource>
+</RCC>

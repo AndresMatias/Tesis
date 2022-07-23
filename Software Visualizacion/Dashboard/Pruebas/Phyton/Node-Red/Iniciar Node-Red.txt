@@ -1,0 +1,1 @@
+node-red --    poner este comando en consola sin nececidad de ejecutar como admin

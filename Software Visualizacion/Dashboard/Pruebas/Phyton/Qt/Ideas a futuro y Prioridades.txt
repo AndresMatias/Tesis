@@ -1,0 +1,14 @@
+Prioridad:
+Gafico Gause: Porcentaje en base a formula OEE
+Grafico barra: Verde funciona,Rojo(Para de emergencia),Amarrillo(stan-by) 
+
+Futuro:
+Agregar boton mqtt/sql en caso de terminar
+
+QWidget#marco1{
+	background-color: rgb(178, 188, 255);
+	border-radius: 5;
+	border: 2px;
+	border-color: rgb(255, 0, 4);
+	border-style: solid;
+}

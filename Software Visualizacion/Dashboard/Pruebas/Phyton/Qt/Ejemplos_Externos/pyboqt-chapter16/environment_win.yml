@@ -1,0 +1,33 @@
+name: pyboqt
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - ca-certificates=2019.9.11=hecc5488_0
+  - certifi=2019.9.11=py37_0
+  - icu=64.2=he025d50_1
+  - jpeg=9c=hfa6e2cd_1001
+  - libclang=9.0.0=default_hf44288c_4
+  - libiconv=1.15=hfa6e2cd_1005
+  - libpng=1.6.37=h7602738_0
+  - libxml2=2.9.10=h9ce36c8_0
+  - libxslt=1.1.33=heafd4d3_0
+  - openssl=1.1.1d=hfa6e2cd_0
+  - pip=19.3.1=py37_0
+  - pyqt=5.12.3=py37h6538335_1
+  - pyside2=5.13.1=py37hfa7ce6d_6
+  - python=3.7.3=h510b542_1
+  - qt=5.12.5=h7ef1ec2_0
+  - qtawesome=0.7.0=py_0
+  - qtpy=1.9.0=py_0
+  - setuptools=42.0.1=py37_0
+  - sqlite=3.30.1=hfa6e2cd_0
+  - vc=14.1=h0510ff6_4
+  - vs2015_runtime=14.16.27012=hf0eaf9b_0
+  - wheel=0.33.6=py37_0
+  - wincertstore=0.2=py37_1003
+  - zlib=1.2.11=h2fa13f4_1006
+  - pip:
+    - pyqt5-sip==4.19.18
+    - pyqtwebengine==5.12.1
+
